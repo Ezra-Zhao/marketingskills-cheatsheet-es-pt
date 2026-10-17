@@ -39,13 +39,13 @@ La CLI detecta qué agentes tienes y dónde instalar (en Claude Code, `.claude/s
 
 | Tarea | Skills |
 |---|---|
-| **SEO y descubrimiento** | `seo-audit` (auditoría técnica y on-page), `ai-seo` (aparecer en buscadores con IA), `programmatic-seo` (páginas a escala), `site-architecture` (jerarquía y URLs), `schema` (datos estructurados), `aso` (fichas de app stores) |
+| **SEO y descubrimiento** | `seo-audit` (auditoría técnica y on-page), `ai-seo` (aparecer en buscadores con IA), `programmatic-seo` (páginas a escala), `site-architecture` (jerarquía y URLs), `schema` (datos estructurados), `aso` (fichas de app stores), `competitors` (páginas comparativas) |
 | **Conversión (CRO)** | `cro` (páginas y formularios), `signup` (registro), `onboarding` (activación), `popups`, `paywalls` |
 | **Contenido y copy** | `copywriting` (copy de páginas), `copy-editing` (pulir textos), `cold-email` (prospección B2B), `emails` (flujos automáticos), `social`, `video`, `image`, `sms` |
 | **Pagado y medición** | `ads` (Google, Meta, LinkedIn, X), `ad-creative` (creatividades a escala), `ab-testing` (experimentos), `analytics` (medición y auditoría de tracking) |
-| **Crecimiento y retención** | `referrals` (referidos), `free-tools` (herramientas gratuitas como imán), `lead-magnets`, `churn-prevention` (cancelaciones y pagos fallidos), `community-marketing`, `co-marketing` |
-| **Ventas y GTM** | `revops`, `sales-enablement`, `launch` (lanzamientos), `pricing` (precios y packaging), `prospecting`, `competitor-profiling` |
-| **Estrategia** | `marketing-ideas` (ideas de crecimiento), `marketing-psychology` (modelos mentales), `customer-research` (investigar clientes), `competitors` (páginas comparativas) |
+| **Crecimiento y retención** | `referrals` (referidos), `lead-magnets`, `churn-prevention` (cancelaciones y pagos fallidos), `community`, `co-marketing` |
+| **Ventas y GTM** | `revops`, `sales-enablement`, `launch` (lanzamientos), `pricing` (precios y packaging), `prospecting` |
+| **Estrategia** | `marketing-ideas` (ideas de crecimiento), `marketing-psychology` (modelos mentales), `customer-research` (investigar clientes), `competitor-profiling` |
 
 Los skills se cruzan entre sí: `copywriting` trabaja con `cro` y `ab-testing`; `customer-research` alimenta a `copywriting`, `cro` y `competitors`. No son comandos sueltos, son una red.
 
@@ -92,13 +92,13 @@ A CLI detecta quais agentes você tem e onde instalar (no Claude Code, `.claude/
 
 | Tarefa | Skills |
 |---|---|
-| **SEO e descoberta** | `seo-audit` (auditoria técnica e on-page), `ai-seo` (aparecer em buscadores com IA), `programmatic-seo` (páginas em escala), `site-architecture` (hierarquia e URLs), `schema` (dados estruturados), `aso` (páginas de app stores) |
+| **SEO e descoberta** | `seo-audit` (auditoria técnica e on-page), `ai-seo` (aparecer em buscadores com IA), `programmatic-seo` (páginas em escala), `site-architecture` (hierarquia e URLs), `schema` (dados estruturados), `aso` (páginas de app stores), `competitors` (páginas comparativas) |
 | **Conversão (CRO)** | `cro` (páginas e formulários), `signup` (cadastro), `onboarding` (ativação), `popups`, `paywalls` |
 | **Conteúdo e copy** | `copywriting` (copy de páginas), `copy-editing` (lapidar textos), `cold-email` (prospecção B2B), `emails` (fluxos automáticos), `social`, `video`, `image`, `sms` |
 | **Pago e medição** | `ads` (Google, Meta, LinkedIn, X), `ad-creative` (criativos em escala), `ab-testing` (experimentos), `analytics` (medição e auditoria de tracking) |
-| **Crescimento e retenção** | `referrals` (indicações), `free-tools` (ferramentas gratuitas como ímã), `lead-magnets`, `churn-prevention` (cancelamentos e pagamentos falhos), `community-marketing`, `co-marketing` |
-| **Vendas e GTM** | `revops`, `sales-enablement`, `launch` (lançamentos), `pricing` (preços e packaging), `prospecting`, `competitor-profiling` |
-| **Estratégia** | `marketing-ideas` (ideias de crescimento), `marketing-psychology` (modelos mentais), `customer-research` (pesquisar clientes), `competitors` (páginas comparativas) |
+| **Crescimento e retenção** | `referrals` (indicações), `lead-magnets`, `churn-prevention` (cancelamentos e pagamentos falhos), `community`, `co-marketing` |
+| **Vendas e GTM** | `revops`, `sales-enablement`, `launch` (lançamentos), `pricing` (preços e packaging), `prospecting` |
+| **Estratégia** | `marketing-ideas` (ideias de crescimento), `marketing-psychology` (modelos mentais), `customer-research` (pesquisar clientes), `competitor-profiling` |
 
 Os skills se cruzam entre si: `copywriting` trabalha com `cro` e `ab-testing`; `customer-research` alimenta `copywriting`, `cro` e `competitors`. Não são comandos soltos, são uma rede.
 
