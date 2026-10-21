@@ -10,6 +10,9 @@ Proyecto original: https://github.com/coreyhaines31/marketingskills (55.202 estr
 
 ---
 
+
+Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 🇪🇸 Español
 
 ### Qué es
